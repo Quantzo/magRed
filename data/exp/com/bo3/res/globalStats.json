@@ -1,0 +1,20 @@
+{
+    "coverage": {
+        "mean": 0.8147538790797217,
+        "median": 0.969578313253012,
+        "mean_deviation": 0.23310659027740133,
+        "standard_deviation": 0.3028643023692822
+    },
+    "correctRatio": {
+        "mean": 0.8154458109514289,
+        "median": 0.9758333333333333,
+        "mean_deviation": 0.2489710977612334,
+        "standard_deviation": 0.3072108316896895
+    },
+    "wrongRatio": {
+        "mean": 0.10590250365531265,
+        "median": 0.016417910447761197,
+        "mean_deviation": 0.15944871336867333,
+        "standard_deviation": 0.19586198767415816
+    }
+}
